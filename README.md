@@ -22,10 +22,7 @@ Demo Instructions :-
 
 `root@linux# ls`
 
-       bruteforce.py 
-       password.txt 
-       vulnerableApp 
-       vulnerableApp.cpp'
+       bruteforce.py password.txt vulnerableApp vulnerableApp.cpp
 
 4. Runnning your Python Bruteforce Tool
 

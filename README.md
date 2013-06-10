@@ -21,23 +21,26 @@ Demo Instructions :-
 3. After Compiling, Run your bruteforce.py file.
 
 `root@linux# ls`
-'bruteforce.py password.txt vulnerableApp vulnerableApp.cpp'
+      - bruteforce.py 
+      - password.txt 
+      - vulnerableApp 
+      - vulnerableApp.cpp'
 
 4. Runnning your Python Bruteforce Tool
 
 `root@linux# chmod u+x bruteforce.py`
 
 `root@linux# ./bruteforce.py`
-abcdef  is not Password
-123456  is not Password
-hacker  is not Password
-bullshit  is not Password
-wtf  is not Password
-blackbuntu  is not Password
-facebook  is not Password
-twitter  is not Password
-metallica  is not Password
-Password Cracked and your Password is  KroKite
+      - abcdef  is not Password
+      - 123456  is not Password
+      - hacker  is not Password
+      - bullshit  is not Password
+      - wtf  is not Password
+      - blackbuntu  is not Password
+      - facebook  is not Password
+      - twitter  is not Password
+      - metallica  is not Password
+      - Password Cracked and your Password is  KroKite
 
 Good Luck, You may try with your Mysql Application after few lines of changes in code in bruteforce.py
 

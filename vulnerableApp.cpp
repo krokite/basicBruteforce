@@ -1,7 +1,7 @@
 /*
 Author: KroKite
 Description: Basic Bruteforcing Tools
-URI: http://www.blackbuntu.com
+URI: http://www.facebook.com/r0ckysharma
 */
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 // When passing char arrays as parameters they must be pointers
 int main(int argc, char** argv) {
     if (argc < 4) { // Check the value of argc. If not enough parameters than, inform user and exit.
-        cout << "Usage is << argv[0] << " -f <input filename> -p password\n";
+        cout << "Usage is " << argv[0] << " -f <input filename> -p password\n";
         exit(0);
     } else { // if we got enough parameters..
   int i=1;

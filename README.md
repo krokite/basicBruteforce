@@ -43,4 +43,7 @@ Demo Instructions :-
 
 Good Luck, You may try with your Mysql Application after few lines of changes in code in bruteforce.py
 
+#Just a side note, with little tweaks, this tool can be used against Linux Password bruteforce attack, MySQL password bruteforce attack.
+Kindly, do not misuse this tool. Only use it for self-testing.
+
 Cheers!

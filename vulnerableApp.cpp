@@ -1,7 +1,6 @@
 /*
 Author: KroKite
 Description: Basic Bruteforcing Tools
-URI: http://www.facebook.com/r0ckysharma
 */
 
 #include <iostream>
